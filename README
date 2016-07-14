@@ -1,0 +1,14 @@
+A Facebook chat API bot written in node.js that can spice up your group chats. :)
+
+Requirements (all available through npm):
+* facebook-chat-api
+* fs
+* http
+* xml2js
+
+Currents commands:
+!help
+!meme [name]
+!addmeme [name] [image url]
+!define [word]
+!weather [location]
